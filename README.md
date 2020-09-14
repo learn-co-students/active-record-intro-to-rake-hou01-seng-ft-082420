@@ -1,4 +1,4 @@
-# Intro to Rake
+gem install activerecord# Intro to Rake
 
 ## Objectives
 
